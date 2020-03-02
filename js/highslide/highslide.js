@@ -1,7 +1,7 @@
 /******************************************************************************
 Name:    Highslide JS
 Version: 3.0.0 (February 18 2007
-Author:  Torstein Hønsi
+Author:  Torstein Hï¿½nsi
 Support: http://vikjavev.no/highslide/forum
 Email:   See http://vikjavev.no/megsjol
 
@@ -29,7 +29,7 @@ Your fair use and other rights are in no way affected by the above.
 var hs = {
 
 // Apply your own settings here, or override them in the html file.  
-graphicsDir : 'highslide/graphics/',
+graphicsDir : 'graphics/',
 restoreCursor : "zoomout.cur", // necessary for preload
 fullExpandIcon : 'fullexpand.gif',
 expandSteps : 10, // number of steps in zoom. Each step lasts for duration/step milliseconds.
